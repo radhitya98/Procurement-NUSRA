@@ -7,6 +7,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/procrument-nusra-dashboard/"
+  base: "/procrument-NUSRA"
 
 });
